@@ -8,3 +8,6 @@ Lucide-icon是基于[Lucide](https://lucide.dev/) 的思源图标包，部分图
 
 ## 1.0
 初始发布
+
+## 1.1
+优化部分图标
