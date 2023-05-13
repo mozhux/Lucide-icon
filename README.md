@@ -2,7 +2,7 @@
 
 Lucide Icon is a set of rounded open source icons that are corner-rounded, giving them a more lightweight appearance. By carefully selecting the icon pack, we aim to ensure that the icons accurately convey their functional meaning.
 
-The icon pack is based on the excellent open source icon pack [Remix icon](https://remixicon.com/) and [table icon](https://tabler-icons.io/). Thank you to the original author for their meticulous design.
+The icon pack is based on the excellent open source icon pack [Lucide icon]([https://remixicon.com/](https://lucide.dev/)) and [table icon](https://tabler-icons.io/). Thank you to the original author for their meticulous design.
 
 ### Changelog
 
