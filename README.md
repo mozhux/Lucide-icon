@@ -1,16 +1,9 @@
-# Lucide-icon
+[中文](https://github.com/mozhux/Lucide-icon/README_zh_CN.md)
 
-Lucide-icon是基于[Lucide](https://lucide.dev/) 的思源图标包，部分图标使用[Tabler Icons](https://tabler-icons.io/)补全。
+Lucide Icon is a set of rounded open source icons that are corner-rounded, giving them a more lightweight appearance. By carefully selecting the icon pack, we aim to ensure that the icons accurately convey their functional meaning.
 
-在尽量保持视觉一致性的前提下，它和Remix-icon 最大的区别是它的图标圆角更大，会圆润一些。另外一个特性是和ob自带图标相似度99%。
+The icon pack is based on the excellent open source icon pack [Remix icon](https://remixicon.com/) and [table icon](https://tabler-icons.io/). Thank you to the original author for their meticulous design.
 
-有什么问题可以github发。
-## 1.3
-优化工作空间、收集箱、外观模式、分屏、闪卡、反馈、工作空间等图标
-## 1.2
-适配手机端图标、ai图标
-## 1.1
-优化部分图标
-## 1.0
-初始发布
+### Changelog
 
+2.0 Adapted for the brand new marketplace
